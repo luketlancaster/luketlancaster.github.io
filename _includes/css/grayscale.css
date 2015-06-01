@@ -153,12 +153,16 @@ a:focus {
   padding: 100px 0;
   text-align: center;
   color: #fff;
-  background: url(/img/roof.jpg) no-repeat bottom center scroll;
+  background: url(/img/iceland.jpg) no-repeat bottom center scroll;
   bacground-color: {{ site.color.primary-dark }};
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
   -o-background-size: cover;
+}
+
+.contact a {
+  color: #444
 }
 
 .intro .intro-body {
