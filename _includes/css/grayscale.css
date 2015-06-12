@@ -391,7 +391,7 @@ footer {
 
 footer p {
     margin: 0;
-    font-size: 1em;
+    font-size: .9em;
 }
 
 ::-moz-selection {
